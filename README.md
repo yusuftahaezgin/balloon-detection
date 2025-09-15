@@ -28,7 +28,7 @@ A window will open showing your webcam feed. When a red balloon is shown to the 
 Press the 'q' key to close the window and stop the program.
 
 Dataset and Training
-The model was trained on the https://universe.roboflow.com/ravad/finalv6-nagig/dataset/2, which contains annotated images of red balloon and blue balloon classes.
+The model was trained on the https://universe.roboflow.com/ravad/finalv6-nagig/dataset, which contains annotated images of red balloon and blue balloon classes.
 
   - Model Architecture: YOLOv8n (nano version) was used as the base model.
   - Training Environment: The model was trained for 50 epochs in a Google Colab notebook using a T4 GPU.
