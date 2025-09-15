@@ -13,15 +13,15 @@ Tech Stack
 
 Getting Started
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+  - git clone https://github.com/your-username/your-repository-name.git
+  - cd your-repository-name
 
-2. Install dependencies:
-pip install opencv-python ultralytics
+3. Install dependencies:
+  - pip install opencv-python ultralytics
 
-3. Run the application:
+4. Run the application:
 Place the trained model file (best.pt) in the root directory and run the script:
-python your_script_name.py
+  - python your_script_name.py
 
 A window will open showing your webcam feed. When a red balloon is shown to the camera, it will be highlighted with a red box and its positional information will be displayed.
 
